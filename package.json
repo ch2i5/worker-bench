@@ -1,0 +1,28 @@
+{
+	"name": "worker-bench",
+	"version": "1.0.0",
+	"description": "Web Worker Data Transmission Benchmark.",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite build",
+		"build": "tsc && vite build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ch2i5/worker-bench.git"
+	},
+	"keywords": [
+		"web worker",
+		"worker",
+		"throughput",
+		"latency"
+	],
+	"author": "Chris Stecher <chris@cs3.dev>",
+	"license": "MPL-2.0",
+	"devDependencies": {
+		"typescript": "^5.4.5",
+		"vite": "^5.2.9"
+	}
+}

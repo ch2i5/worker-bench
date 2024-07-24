@@ -1,0 +1,845 @@
+[
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobCopy",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageBlobTransfer",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 100,
+		"visualizeResults": false,
+		"download": true
+	},
+
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1024,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10240,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 102400,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 1048576,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsBlob",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 500,
+		"workerRandomDispatch": true,
+		"payloadSize": 10485760,
+		"visualizeResults": false,
+		"download": true
+	}
+]

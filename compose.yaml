@@ -1,0 +1,16 @@
+services:
+    nginx:
+        build:
+            context: ./docker/nginx
+            dockerfile: Dockerfile
+        # restart: always
+        volumes:
+            - ".:/var/www/"
+        ports:
+            - "80:80"
+            - "443:443"
+        networks:
+            - internal
+networks:
+    internal:
+        driver: bridge

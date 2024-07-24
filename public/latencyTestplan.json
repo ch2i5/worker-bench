@@ -1,0 +1,290 @@
+[
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "postMessageLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 1000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 10000,
+		"workerRandomDispatch": false,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 1000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 1,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 2,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 4,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	},
+	{
+		"test": "atomicsLatency",
+		"repeats": 5,
+		"workerAmount": 8,
+		"runs": 10000,
+		"workerRandomDispatch": true,
+		"visualizeResults": false,
+		"download": true
+	}
+]
