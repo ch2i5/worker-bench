@@ -1,6 +1,7 @@
 # workerBench
 
 This benchmark suite was created as part of the bachelor's thesis "Achieving Low Latency and High Throughput in Real-Time Web Applications Using Web Workers".
+The thesis can be found [here](https://github.com/ch2i5/worker-bench/blob/main/public/Achieving_Low_Latency_and_High_Throughput_in_Real_Time_Web_Applications_Using_Web_Workers.pdf).
 Raw data and generated plots are provided at [https://github.com/ch2i5/worker-bench-results](https://github.com/ch2i5/worker-bench-results).
 
 The goal of this benchmark suite is to research transmission latency and throughput charactersitics in client-side real-time web applications using web workers. This is a first rudimentary implementation that was created during the two-month thesis time limit and could use some refactoring.
