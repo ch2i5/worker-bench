@@ -56,6 +56,11 @@ class Benchmark {
 	#atomicsSpeed = new AtomicsSpeed();
 
 	constructor() {
+		this.log(
+			`<h1>WorkerBench</h1>This benchmark suite was created as part of the bachelor's thesis <a href="https://workerbench.cs3.dev/Achieving_Low_Latency_and_High_Throughput_in_Real_Time_Web_Applications_Using_Web_Workers.pdf">"Achieving Low Latency and High Throughput in Real-Time Web Applications Using Web Workers"</a>. It offers several Web Worker data transmission tests with adjustable parameters to make transmission performance comparable. The source code is available on <a href="https://github.com/ch2i5/worker-bench">GitHub</a>.<br />Test your browser below!`
+		);
+		document.body.appendChild(h("div", { class: "log-divider", style: "margin: 0.25rem var(--padding);" }));
+		//
 		const additionalInfo = navigator.userAgent.includes("Gecko/")
 			? `<br>Firefox users may disable "privacy.resistFingerprinting" and "privacy.reduceTimerPrecision" in "about:config" for increased accuracy. `
 			: "";
